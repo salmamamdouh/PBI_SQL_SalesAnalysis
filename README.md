@@ -8,9 +8,10 @@ Internet Sales by Customer Segment: Breakdowns of sales across different custome
 Internet Sales by Product Category: Insights into which product categories contribute the most to sales, including detailed product-level analysis.
 Top Customers and Products: Highlighting top-performing customers and products, based on sales volume and revenue.
 
-***Data Sources***
+ ***Data Sources***
 The dataset used in this dashboard contains:
-Customer Information: Including demographics, location, and customer segments. 
+Customer Information: Including demographics, location, and customer segments.  This site was built using [GitHub Pages](https://github.com/salmamamdouh/PBI_SQL_SalesAnalysis/blob/main/Exported%20Data%20-%20DIM_Customers.csv).
+
 Sales Data: Includes order details, quantities, revenue, and transaction dates.
 Product Information: Detailed product categories and individual product data.
 
