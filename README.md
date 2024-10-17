@@ -9,14 +9,13 @@ Internet Sales by Product Category: Insights into which product categories contr
 Top Customers and Products: Highlighting top-performing customers and products, based on sales volume and revenue.
 
  ***Data Sources***
-The dataset used in this dashboard contains:
-Customer Information: Including demographics, location, and customer segments.  This site was built using [GitHub Pages](https://github.com/salmamamdouh/PBI_SQL_SalesAnalysis/blob/main/Exported%20Data%20-%20DIM_Customers.csv).
+The dataset used in this dashboard includes:
+- **Customer Information**:  [Exported Data - DIM_Customers.csv](https://github.com/salmamamdouh/PBI_SQL_SalesAnalysis/blob/main/Exported%20Data%20-%20DIM_Customers.csv).
+- **Sales Data**: [Exported Data - FACT_InternetSales.csv](https://github.com/salmamamdouh/PBI_SQL_SalesAnalysis/blob/main/Exported%20Data%20-%20FACT_InternetSales.csv).
+- **Product Information**: [Exported Data - DIM_Products.csv](https://github.com/salmamamdouh/PBI_SQL_SalesAnalysis/blob/main/Exported%20Data%20-%20DIM_Products.csv).
+- **Calendar Information**: [Exported Data - DIM_Calendar.csv](https://github.com/salmamamdouh/PBI_SQL_SalesAnalysis/blob/main/Exported%20Data%20-%20DIM_Calendar.csv).
 
-Sales Data: Includes order details, quantities, revenue, and transaction dates.
-Product Information: Detailed product categories and individual product data.
+  ---
 
-<div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-</div>
+### SQL Code Used for Data Preparation
+
