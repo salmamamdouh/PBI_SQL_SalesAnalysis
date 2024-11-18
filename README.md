@@ -32,3 +32,11 @@ The data for this project was extracted and transformed using SQL. Below are the
 You can view or download the SQL code from the links provided above to understand how the data was structured and transformed for use in Power BI.
 
 ---
+# Sales Dashboard
+
+## Description
+Developed and designed an interactive sales dashboard providing comprehensive insights into sales performance, budget comparison, and product category trends. Features include:
+- Dynamic filters for customer city, product categories, and timeframes.
+- A KPI summary displaying sales-to-budget variance.
+- Visualizations such as line charts and pie charts for data-driven decision-making.
+
