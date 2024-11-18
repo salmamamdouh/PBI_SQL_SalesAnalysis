@@ -40,3 +40,5 @@ Developed and designed an interactive sales dashboard providing comprehensive in
 - A KPI summary displaying sales-to-budget variance.
 - Visualizations such as line charts and pie charts for data-driven decision-making.
 
+## Preview
+![Sales Dashboard](ss1.JPG)
